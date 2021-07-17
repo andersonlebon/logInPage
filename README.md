@@ -21,7 +21,7 @@ This project is build with:
 
 To get the content of this project locally you need to run this command in your terminal:
 
-- `git https://github.com/andersonlebon/CAR-PARKING.git`
+- `git https://github.com/andersonlebon/logInPage.git`
 
 ## Author
 
